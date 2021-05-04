@@ -1,5 +1,7 @@
 ### Olá meu nome é Enzo, tenho interesse na área de desenvolvimento de Software
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enzoggqs&show_icons=true&theme=dark)
+
 <!--
 **enzoggqs/enzoggqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
