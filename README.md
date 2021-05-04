@@ -1,6 +1,13 @@
-### Olá meu nome é Enzo, tenho interesse na área de desenvolvimento de Software
+### Hi there 👋
+I'm a Software Engineering student at University of Brasilia and a Data Science student at Universidade Cruzeiro do Sul.
+
+I'm interested software development and data science areas.
+
+This is my [Linkedin](https://www.linkedin.com/in/enzoggqs/)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=enzoggqs&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzoggqs&layout=compact&langs_count=8&theme=dark)
+<br> <br>
 
 <!--
 **enzoggqs/enzoggqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
