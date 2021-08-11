@@ -1,9 +1,9 @@
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=enzoggqs)
 
-I'm a Software Engineering student at University of Brasilia and a Data Science student at Universidade Cruzeiro do Sul.
+I'm a Software Engineering student at University of Brasilia.
 
-I'm interested software development and data science areas.
+I'm interested software development.
 
 This is my [Linkedin](https://www.linkedin.com/in/enzoggqs/)
 
