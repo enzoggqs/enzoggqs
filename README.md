@@ -2,8 +2,8 @@
 [![Linkedin: Enzo](https://img.shields.io/badge/-Enzoggqs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzoggqs/)](https://www.linkedin.com/in/enzoggqs/)
 
 - I'm a Software Engineering student at University of Brasilia, and a frontend development enthusiast. 
-- Developer at Math Analytics company and Atlas of Opportunity, project from MIT Big Data Living Lab. 
-- Currently learning NextJs and looking to collaborate on Frontend Projects.
+- Developer at [Instituto de Pesquisas Eldorado](https://www.linkedin.com/company/instituto-de-pesquisas-eldorado/mycompany/verification/). 
+- Currently improving my skills with frontend frameworks, mobile frameworks and NodeJS.
 - You can contact me through: eggqsaraiva@gmail.com.
 
 
