@@ -1,9 +1,8 @@
 ### Enzo Gabriel [He/Him]
 [![Linkedin: Enzo](https://img.shields.io/badge/-Enzoggqs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzoggqs/)](https://www.linkedin.com/in/enzoggqs/)
 
-- I'm a Software Engineering student at University of Brasilia, and a frontend development enthusiast. 
-- Developer at [Instituto de Pesquisas Eldorado](https://www.linkedin.com/company/instituto-de-pesquisas-eldorado/mycompany/verification/). 
-- Currently improving my skills with frontend frameworks, mobile frameworks and NodeJS.
+- I'm a Software Engineering student at University of Brasilia, and a frontend development enthusiast.  
+- Currently improving my skills with Java and C#.
 - You can contact me through: eggqsaraiva@gmail.com.
 
 
