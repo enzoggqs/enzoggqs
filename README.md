@@ -2,7 +2,7 @@
 [![Linkedin: Enzo](https://img.shields.io/badge/-Enzoggqs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzoggqs/)](https://www.linkedin.com/in/enzoggqs/)
 
 - I'm a Software Engineering student at University of Brasilia, and a frontend development enthusiast.  
-- Currently improving my skills with Java and C#.
+- Currently improving my skills with Java, C# and Cloud Computing.
 - You can contact me through: eggqsaraiva@gmail.com.
 
 
