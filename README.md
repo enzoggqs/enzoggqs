@@ -1,8 +1,9 @@
 ### Enzo Gabriel [He/Him]
 [![Linkedin: Enzo](https://img.shields.io/badge/-Enzoggqs-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/enzoggqs/)](https://www.linkedin.com/in/enzoggqs/)
 
-- I'm a Software Engineering student at University of Brasilia, and a frontend development enthusiast.  
-- Currently improving my skills with Java, C# and Cloud Computing.
+- Mid Level Software Engineering.
+- Solid experience in full stack development and Cloud Computing, with Azure and AWS.
+- Currently improving my skills with Java, C#.
 - You can contact me through: eggqsaraiva@gmail.com.
 
 
